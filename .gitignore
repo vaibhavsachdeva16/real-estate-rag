@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Env file
+.env
+
+# Vector DB
+resources/vectorstore/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
